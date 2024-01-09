@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: pod-mysb
-        image: deedeew/spring:15
+        image: deedeew/spring:16
         ports:
         - containerPort: 8085
 ---
